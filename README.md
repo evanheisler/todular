@@ -1,2 +1,7 @@
-# todular
-Your Todo Scheduler
+# Todular
+
+![](/public/logo-todular.png)
+
+<p align="center">
+✅ Your Todo Scheduler!
+</p>
